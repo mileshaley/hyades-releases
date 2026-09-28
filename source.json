@@ -5,6 +5,14 @@
       "bundleIdentifier": "com.mileshaley.hyades",
       "versions": [
         {
+          "version": "1.0.11",
+          "buildVersion": "11",
+          "date": "2026-09-28T02:26:27.255Z",
+          "downloadURL": "https://github.com/mileshaley/hyades-releases/releases/download/build-11/Hyades.ipa",
+          "size": 8460821,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.0.10",
           "buildVersion": "10",
           "date": "2026-09-28T02:08:54.873Z",
