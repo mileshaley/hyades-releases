@@ -5,6 +5,14 @@
       "bundleIdentifier": "com.mileshaley.hyades",
       "versions": [
         {
+          "version": "1.0.38",
+          "buildVersion": "38",
+          "date": "2026-10-06T23:27:02.842Z",
+          "downloadURL": "https://github.com/mileshaley/hyades-releases/releases/download/build-38/Hyades.ipa",
+          "size": 13605209,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.0.37",
           "buildVersion": "37",
           "date": "2026-10-06T22:30:41.535Z",
@@ -74,14 +82,6 @@
           "date": "2026-10-06T02:34:17.554Z",
           "downloadURL": "https://github.com/mileshaley/hyades-releases/releases/download/build-29/Hyades.ipa",
           "size": 13591730,
-          "minOSVersion": "16.4"
-        },
-        {
-          "version": "1.0.28",
-          "buildVersion": "28",
-          "date": "2026-10-06T01:55:09.347Z",
-          "downloadURL": "https://github.com/mileshaley/hyades-releases/releases/download/build-28/Hyades.ipa",
-          "size": 13581620,
           "minOSVersion": "16.4"
         }
       ],
